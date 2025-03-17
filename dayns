@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> daynis makeup
+    </title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <h1>Dayns Cosmetic</h1>
+
+    <img src="boticario-ipanema.jpg" alt="">
+
+    <h2>Daiane Mafort
+    </h2>
+
+</body>
+</html>
